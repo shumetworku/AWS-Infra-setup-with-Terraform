@@ -97,5 +97,5 @@ This project is licensed under the MIT License.
 
 Shumet  
 Sr. System Admin & DevOps Engineer  
- shumet@example.com  
+ shumwor@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shumet-worku-b101a763/)
