@@ -1,2 +1,2 @@
 # AWS-Infra-setup-with-Terraform
-Setting up different AWS services with Iac tool which is terraform.
+Setting up different AWS services using an Infrastructure as Code (IaC) tool — Terraform.
